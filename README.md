@@ -2,7 +2,7 @@
 
 This was the first project created as a team during the Factoria F5 Bootcamp.
 
-Git pages link:
+Git pages link: https://estefanielunardi.github.io/GourmetToys-Squadra/
 
 **## Made By** ✒️
 - Giacomo Vincenzo
